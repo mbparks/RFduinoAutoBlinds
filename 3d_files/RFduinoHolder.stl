@@ -1,0 +1,254 @@
+solid RFduinoHolder
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 34.0 34.0 0.0
+    vertex 34.0 0.0 5.0
+    vertex 34.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 34.0 0.0 5.0
+    vertex 34.0 34.0 0.0
+    vertex 34.0 34.0 5.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 0.0 34.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 31.999999999999996 1.9999999999999998 1.9999999999999998
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 1.9999999999999998 1.9999999999999998 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 31.999999999999996 1.9999999999999998 1.9999999999999998
+    vertex 31.999999999999996 31.999999999999996 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 2.000000000000001 34.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+    vertex 1.9999999999999998 1.9999999999999998 1.9999999999999998
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 34.0 0.0 5.0
+    vertex 0.0 0.0 0.0
+    vertex 34.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 34.0 0.0 5.0
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+    vertex 34.0 0.0 5.0
+    vertex 1.9999999999999998 0.0 5.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 34.0 34.0 0.0
+    vertex 0.0 34.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 34.0 34.0 0.0
+    vertex 0.0 34.0 1.9999999999999998
+    vertex 2.000000000000001 34.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 34.0 34.0 0.0
+    vertex 2.000000000000001 34.0 1.9999999999999998
+    vertex 34.0 34.0 5.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 34.0 34.0 5.0
+    vertex 2.000000000000001 34.0 1.9999999999999998
+    vertex 2.000000000000001 34.0 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 34.0 34.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 34.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 34.0 34.0 0.0
+    vertex 34.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 31.999999999999996 31.999999999999996 1.9999999999999998
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 1.9999999999999998 31.999999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 34.0 0.0 5.0
+    vertex 1.9999999999999998 1.9999999999999998 5.0
+    vertex 1.9999999999999998 0.0 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 5.0
+    vertex 34.0 0.0 5.0
+    vertex 31.999999999999996 1.9999999999999998 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 31.999999999999996 1.9999999999999998 5.0
+    vertex 34.0 0.0 5.0
+    vertex 31.999999999999996 31.999999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 2.000000000000001 34.0 5.0
+    vertex 1.9999999999999998 31.999999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 2.000000000000001 34.0 5.0
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 34.0 34.0 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 34.0 34.0 5.0
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 34.0 0.0 5.0
+  endloop
+endfacet
+facet normal -1.0 5.287437154777302e-16 0.0
+  outer loop
+    vertex 2.000000000000001 34.0 5.0
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 1.9999999999999998 31.999999999999996 5.0
+  endloop
+endfacet
+facet normal -1.0 5.287437154777302e-16 0.0
+  outer loop
+    vertex 1.9999999999999998 31.999999999999996 1.9999999999999998
+    vertex 2.000000000000001 34.0 5.0
+    vertex 2.000000000000001 34.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 31.999999999999996 1.9999999999999998 1.9999999999999998
+    vertex 31.999999999999996 1.9999999999999998 5.0
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex 31.999999999999996 1.9999999999999998 1.9999999999999998
+    vertex 31.999999999999996 31.999999999999996 5.0
+    vertex 31.999999999999996 31.999999999999996 1.9999999999999998
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 5.0
+    vertex 31.999999999999996 1.9999999999999998 1.9999999999999998
+    vertex 1.9999999999999998 1.9999999999999998 1.9999999999999998
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 31.999999999999996 1.9999999999999998 1.9999999999999998
+    vertex 1.9999999999999998 1.9999999999999998 5.0
+    vertex 31.999999999999996 1.9999999999999998 5.0
+  endloop
+endfacet
+facet normal -0.9999999999999999 -0.0 -0.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 5.0
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+    vertex 1.9999999999999998 0.0 5.0
+  endloop
+endfacet
+facet normal -0.9999999999999999 -0.0 -0.0
+  outer loop
+    vertex 1.9999999999999998 0.0 1.9999999999999998
+    vertex 1.9999999999999998 1.9999999999999998 5.0
+    vertex 1.9999999999999998 1.9999999999999998 1.9999999999999998
+  endloop
+endfacet
+endsolid RFduinoHolder
